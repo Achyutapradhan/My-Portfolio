@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Amazon-UI",
+      "category": "Web development",
+      "image": "images/amazon.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Jobzze",
+      "category": "Web development",
+      "image": "images/jobs.avif"
+    },
+    {
+      "id": 3,
+      "title": "RealEstate",
+      "category": "Web design",
+      "image": "images/project-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Villax",
+      "category": "Applications",
+      "image": "images/villax.avif"
+    },
+    {
+      "id": 5,
+      "title": "Animated-Websites",
+      "category": "Web design",
+      "image": "images/project-5.png"
+    },
+    {
+      "id": 6,
+      "title": "Responsive Nav-Bar",
+      "category": "Web design",
+      "image": "images/nav-bar.png"
+    },
+    {
+      "id": 7,
+      "title": "Gymnast",
+      "category": "Web development",
+      "image": "images/gym.jpg"
+    },
+    {
+      "id": 8,
+      "title": "To-Do-List",
+      "category": "Applications",
+      "image": "images/project-8.jpg"
+    }
+  ]
+  
